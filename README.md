@@ -9,7 +9,7 @@ Also if the user input if lower than the number guessed by the mobile the user s
 * useFont
 * useWindowDimensions
 
-### Starting the app
+## Getting started
 ```
 npm install
 npm start
